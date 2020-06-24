@@ -4,8 +4,8 @@ import json
 import re
 from discord.ext import commands
 
-live_server = 'NzA1NzI4MzU3NDcxNDg1OTc0.Xtri7A.okxIxchyA30Q2SQhSa5QN38xSgc'
-Test_server = 'NzEwNjcyMjUzNDUyMjg4MDMx.XtrjZw.sNSSdBnty1N7ROJGADac8qvuim0'
+live_server = 
+Test_server = 
 client = commands.Bot(command_prefix = '!')
 client.remove_command('help')
 
